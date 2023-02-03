@@ -1,4 +1,4 @@
-# hyperblog :tw-1f0cf: :tw-1f004:
+# hyperblog
 
 Un blog increible para el curso de Git y GitHub
 
@@ -6,7 +6,7 @@ Un blog increible para el curso de Git y GitHub
 >
 > - niñita
 
-En este curso vemos de todo:
+## En este curso vemos de todo:
 
 - Todos los comandos de Git.
 - El flujo de trabajo en Github.
